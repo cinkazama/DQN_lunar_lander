@@ -7,5 +7,5 @@ Unfortunately I've hardcoded the cuda usage such that one has to probably rewrit
 Some already trained weights for different NN sizes are also uploaded. 
 _train.py_ trains the DQN while _final.py_ just visualizes the trained agent from loaded weights previously saved in _train.py_.
 
-The trained agent in action:
+# The trained agent in action:
 ![](https://github.com/cinkazama/DQN_lunar_lander/blob/main/output.gif)
